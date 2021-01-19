@@ -62,7 +62,6 @@
   grid-template-columns: calc(33.3333% - 7px) calc(33.3333% - 7px) calc(33.3333% - 7px);
   grid-template-rows: auto;
   grid-gap: 10px 10px;
-  height: auto;
 }
 
 .u-section-3 .u-image-1 {
@@ -100,6 +99,7 @@
   .u-section-3 .u-list-1 {
     min-height: 380px;
     grid-template-columns: repeat(3, calc(33.333333333333336% - 7px));
+    height: auto;
   }
 }
 
