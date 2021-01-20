@@ -56,17 +56,18 @@
 }
 
 .u-section-3 .u-list-1 {
-  margin-top: 47px;
+  margin-top: 60px;
   margin-bottom: 60px;
   min-height: 461px;
   grid-template-columns: calc(33.3333% - 7px) calc(33.3333% - 7px) calc(33.3333% - 7px);
   grid-template-rows: auto;
   grid-gap: 10px 10px;
+  height: auto;
 }
 
 .u-section-3 .u-image-1 {
-  background-image: url("images/download.jpg");
-  background-position: 50% 50%;
+  background-image: url("images/lolpp.png");
+  background-position: 50% 17.78%;
 }
 
 .u-section-3 .u-container-layout-1 {
@@ -83,7 +84,7 @@
 }
 
 .u-section-3 .u-image-3 {
-  background-image: url("images/download.jpg");
+  background-image: url("images/unnamed.jpg");
   background-position: 50% 50%;
 }
 
@@ -99,7 +100,6 @@
   .u-section-3 .u-list-1 {
     min-height: 380px;
     grid-template-columns: repeat(3, calc(33.333333333333336% - 7px));
-    height: auto;
   }
 }
 
